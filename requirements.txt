@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+networkx
+nltk
+python-louvain
+pyvis
+statsmodels
+scikit-learn
+ipywidgets
+jupyter
